@@ -21,7 +21,7 @@ Para rodar este projeto em sua máquina local, siga os passos abaixo:
 
 ```bash
 git clone https://github.com/loopsdesenvolvedor/backend-games-loop.git
-
+```
 
 ## Demonstração
 
@@ -37,6 +37,7 @@ Protótipo em construção e você ver à EVOLUÇAO DO PROJETO em tempo real dir
 ).
 
 ![Desktop - 1](https://github.com/user-attachments/assets/35221ce1-9945-4bfa-8dea-e4a5ffd5ee4c)
+
 
 
 
