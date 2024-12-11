@@ -1,4 +1,3 @@
-![Desktop - 1](https://github.com/user-attachments/assets/35221ce1-9945-4bfa-8dea-e4a5ffd5ee4c)
 # Plataforma de Vendas de Games - Backend
 
 Este é o backend da plataforma de vendas de games, desenvolvida com as tecnologias mais modernas como **Prisma**, **TypeScript**, **Multer**, **Express** e outras ferramentas essenciais para oferecer uma API REST robusta e escalável.
@@ -37,5 +36,7 @@ Protótipo em construção e você ver à EVOLUÇAO DO PROJETO em tempo real dir
 
 ).
 
-![Desktop - 1](https://github.com/user-attachments/assets/437debc8-569d-4974-b6af-22e08e99854a)
+![Desktop - 1](https://github.com/user-attachments/assets/35221ce1-9945-4bfa-8dea-e4a5ffd5ee4c)
+
+
 
