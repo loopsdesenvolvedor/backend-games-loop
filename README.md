@@ -34,5 +34,7 @@ Você pode visualizar o protótipo DESKTOP no Figma [aqui](https://www.figma.com
 Protótipo em construção e você ver à EVOLUÇAO DO PROJETO em tempo real diretamente no Figma
 [aqui](https://www.figma.com/design/E1W2Aj08FVdOdKaFfEs4G5/GAMES-LOOP?node-id=114-407&node-type=canvas&t=7hwJBM5HaPup56Kn-0).
 
-).![Desktop - 1](https://github.com/user-attachments/assets/0ee453bf-db8e-4a78-8942-aa7769c29c1d)
+).
+
+![Desktop - 1](https://github.com/user-attachments/assets/0ee453bf-db8e-4a78-8942-aa7769c29c1d)
 
