@@ -36,5 +36,5 @@ Protótipo em construção e você ver à EVOLUÇAO DO PROJETO em tempo real dir
 
 ).
 
-![Desktop - 1](https://github.com/user-attachments/assets/0ee453bf-db8e-4a78-8942-aa7769c29c1d)
+![Desktop - 1](https://github.com/user-attachments/assets/437debc8-569d-4974-b6af-22e08e99854a)
 
