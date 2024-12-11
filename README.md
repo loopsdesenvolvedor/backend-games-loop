@@ -20,4 +20,4 @@ Para rodar este projeto em sua máquina local, siga os passos abaixo:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/plataforma-vendas-games-backend.git
+git clone https://github.com/loopsdesenvolvedor/backend-games-loop.git
